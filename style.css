@@ -55,7 +55,7 @@ h1>span {
     font-size: clamp(1.25rem, 2.75vw, 2.25rem);
 }
 
-/*------------sign up page below*/
+/*------------general stylings and sign up page below*/
 
 h2 {
     font-size: clamp(1.25rem, 2.5vw, 2.25rem);
@@ -107,7 +107,7 @@ button:hover {
     align-items: center;
     flex-direction: column;
 }
-
+/*---------stylings for quiz page below---------*/
 .quiz__btn {
     background-color: rgba(172, 255, 47, 0.75);
     padding: .5rem 1rem;
